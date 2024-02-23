@@ -20,6 +20,7 @@ public static void main(String[] args) {
         refugio.agregarPerro("Max", "Labrador");
         refugio.agregarPerro("Bella", "Pastor Alemán");
         refugio.agregarPerro("Jade", "Pastor Belga");
+        refugio.agregarPerro("Roma", "San Bernardo");
 
         // Mostrar la lista de perros en el refugio
         System.out.println("\nLista de perros en el refugio:");
